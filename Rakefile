@@ -12,7 +12,8 @@ ARTBOARDS = {
   "09" => "github",
   "10" => "basecamp",
   "11" => "campfire",
-  "12" => "presently"
+  "12" => "presently",
+  "13" => "soundcloud"
 }
 
 desc "Rename automatically exported files to their proper service names." 

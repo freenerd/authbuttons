@@ -124,6 +124,15 @@ This is a collection of free and open-source icons for use by multiple authentic
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/presently_256.png'>256x256</a></td>        
 	      <td><a href='http://github.com/intridea/authbuttons/raw/master/png/presently.eps'>.EPS</a></td>        	      
     </tr>
+    <tr>
+      <th><img src='https://github.com/intridea/authbuttons/raw/master/png/soundcloud_32.png'/></th>      
+      <th>SoundCloud</th>
+        <td><a href='http://github.com/intridea/authbuttons/raw/master/png/soundcloud_32.png'>32x32</a></td>        
+        <td><a href='http://github.com/intridea/authbuttons/raw/master/png/soundcloud_64.png'>64x64</a></td>        
+        <td><a href='http://github.com/intridea/authbuttons/raw/master/png/soundcloud_128.png'>128x128</a></td>        
+        <td><a href='http://github.com/intridea/authbuttons/raw/master/png/soundcloud_256.png'>256x256</a></td>        
+        <td><a href='http://github.com/intridea/authbuttons/raw/master/png/soundcloud.eps'>.EPS</a></td>        	      
+    </tr>
 	</tbody>
 </table>
 
